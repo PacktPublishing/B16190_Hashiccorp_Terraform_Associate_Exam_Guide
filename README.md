@@ -1,0 +1,1 @@
+# B16190_Hashiccorp_Terraform_Associate_Exam_Guide
